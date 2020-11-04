@@ -4,12 +4,16 @@
 }
 
 body {
-    background-color: black;
+    background-color: white;
 
 }
 
+img.lado{
+    float: right;
+}
+
 main {
-    background-color: blanchedalmond;
+    background-color: white;
     width: 500px;
     margin: auto;
     padding: 10px;
